@@ -24,5 +24,9 @@
   "bugs": {
     "url": "https://github.com/alinz/react-native-dropdown"
   },
-  "homepage": "https://github.com/alinz/react-native-dropdown"
+  "homepage": "https://github.com/alinz/react-native-dropdown",
+  "peerDependencies": {
+    "react-native": "^0.27.0",
+    "react": "^15.0.0"
+  }
 }
