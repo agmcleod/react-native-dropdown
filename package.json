@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/alinz/react-native-dropdown",
   "peerDependencies": {
-    "react-native": "^0.27.0",
+    "react-native": "^0.33.0",
     "react": "^15.0.0"
   }
 }
